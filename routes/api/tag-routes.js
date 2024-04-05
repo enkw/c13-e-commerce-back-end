@@ -37,7 +37,7 @@ router.get('/:id', async (req, res) => {
 router.post('/', async (req, res) => {
   try {
     const tagData = await Tag.create({
-      product_id: req.body.product_id, // Unsure if product_id is the correct choice here, might need the category id instead
+      product_id: req.body.product_id, // Unsure if product_id is the correct choice here, might need the tag id instead
     });
 
     res.status(200).json(tagData);
