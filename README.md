@@ -21,9 +21,9 @@ If you've cloned/branched this repo, you'll need to npm install, run the schema.
   
 Once you've completed the installation instructions, you can make GET, POST, PUT, and DELETE requests to api/tags/, api/categories/, and api/products/. For manipulation based on ID, use api/products/:id (products is uses as an example).
 
-![Insomnia showing the different types of requests](./screenshots/Screenshot-of-application.png)
+![Insomnia showing the different types of requests](./assets/Screenshot-of-application.png)
 
-Or you can [watch a brief ~2 minute video demonstration](insert link here)
+Or you can [watch a brief ~2 minute video demonstration](https://drive.google.com/file/d/1j4wviciI1lV-m28W0uTu3hd9XWKTtNwR/view)
   
 ## Credits
   
