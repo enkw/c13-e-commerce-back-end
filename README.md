@@ -23,7 +23,7 @@ Once you've completed the installation instructions, you can make GET, POST, PUT
 
 ![Insomnia showing the different types of requests](./assets/Screenshot-of-application.png)
 
-Or you can [watch a brief ~2 minute video demonstration](https://drive.google.com/file/d/1j4wviciI1lV-m28W0uTu3hd9XWKTtNwR/view)
+Or you can [watch a brief video demonstration](https://drive.google.com/file/d/1j4wviciI1lV-m28W0uTu3hd9XWKTtNwR/view)
   
 ## Credits
   
